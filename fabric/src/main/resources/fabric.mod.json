@@ -12,10 +12,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"bai.god.fabric.GodFabric"
+			"god.bai.god.fabric.GodFabric"
 		],
 		"client": [
-			"bai.god.fabric.GodFabricClient"
+			"god.bai.god.fabric.GodFabricClient"
 		]
 	},
 	"mixins": [
